@@ -82,7 +82,7 @@ def load_llm():
 
 def main():
 
-    st.title("Medibot: Your Medical Chatbot")
+    st.title("🩺 MEDIBOT – AI Medical Chatbot")
 
     st.warning(
         "Educational information only. "
